@@ -1,1 +1,1 @@
-# Fewshot_Perovskite_Eg
+# Few-Shot Learning for Perovskite Bandgap Prediction: Leveraging Synthetic Data and Atomic Orbital Embeddings  
